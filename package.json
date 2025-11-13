@@ -1,0 +1,39 @@
+{
+  "name": "liquidsoap-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for LiquidSoap 2.4.0 documentation and script assistance",
+  "type": "module",
+  "bin": {
+    "liquidsoap-mcp-server": "./build/index.js"
+  },
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "watch": "tsc --watch",
+    "dev": "tsc && node build/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "liquidsoap",
+    "streaming",
+    "audio",
+    "video",
+    "documentation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

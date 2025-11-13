@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "liquidsoap": {
+      "command": "npx",
+      "args": ["-y", "liquidsoap-mcp-server"]
+    }
+  }
+}
