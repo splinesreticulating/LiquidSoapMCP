@@ -1,5 +1,5 @@
 <!-- SEO META TAGS -->
-<meta name="description" content="Liquidsoap MCP Server — AI-powered, version-accurate Liquidsoap 2.4.0 documentation and code generation for Claude, ChatGPT, Cursor, and other MCP clients.">
+<meta name="description" content="Liquidsoap MCP Server: AI-powered, version-accurate Liquidsoap 2.4.0 documentation and code generation for Claude, ChatGPT, Cursor, and other MCP clients.">
 <meta name="keywords" content="Liquidsoap, LiquidSoapMCP, MCP Server, AI streaming, web radio, Icecast, HLS, Claude, ChatGPT, LLM, Model Context Protocol, streaming automation, radio automation, .liq scripts, audio pipelines">
 <meta property="og:title" content="LiquidSoap MCP Server">
 <meta property="og:description" content="Give your AI assistant accurate Liquidsoap 2.4.0 documentation, examples, and script validation using the Model Context Protocol.">
@@ -29,7 +29,7 @@ No hallucinations. No version drift. No mystery errors.
 
 # Why this exists
 
-Liquidsoap is incredibly powerful—but:
+Liquidsoap is incredibly powerful, but:
 
 - Documentation varies heavily between versions  
 - 1.x and 2.x syntax differs in subtle ways  
@@ -82,8 +82,6 @@ Ready-to-use snippets:
 ---
 
 # Demo (example)
-
-*(Add GIF or screenshots here — I can help generate one.)*
 
 Ask:
 
@@ -192,7 +190,7 @@ npm run build
 
 # Contributing
 
-PRs welcome—especially:
+PRs welcome. Especially:
 
 - More examples  
 - Better search  
@@ -212,7 +210,7 @@ PRs welcome—especially:
 
 # Acknowledgments
 
-Built for the Liquidsoap community — and for the DJs, webradio operators, self-hosters, and audio nerds who want Liquidsoap to be easier, safer, and more fun with AI assistance.
+Built for the Liquidsoap community, and for the DJs, webradio operators, self-hosters, and audio nerds who want Liquidsoap to be easier, safer, and more fun with AI assistance.
 
 ---
 
