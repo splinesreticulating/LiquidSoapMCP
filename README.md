@@ -13,10 +13,9 @@
 
 <!-- BADGES -->
 ![GitHub Stars](https://img.shields.io/github/stars/splinesreticulating/LiquidSoapMCP?style=social)
-![GitHub License](https://img.shields.io/github/license/splinesreticulating/LiquidSoapMCP)
-![npm](https://img.shields.io/npm/v/liquidsoap-mcp-server)
-![npm downloads](https://img.shields.io/npm/dm/liquidsoap-mcp-server)
-![Build](https://img.shields.io/github/actions/workflow/status/splinesreticulating/LiquidSoapMCP/ci.yml)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![npm](https://img.shields.io/badge/npm-not_published-lightgrey)
+![npm downloads](https://img.shields.io/badge/downloads-n/a-lightgrey)
 <!-- END BADGES -->
 
 LLMs get Liquidsoap wrong *all the time*—mixing 1.x docs, outdated blog posts, and half-remembered API examples.
