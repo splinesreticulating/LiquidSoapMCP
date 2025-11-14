@@ -9,7 +9,7 @@
 <!-- END SEO TAGS -->
 
 # LiquidSoap MCP Server  
-### Version-accurate Liquidsoap scripting using the official 2.4.0 docs.*
+### *Version-accurate Liquidsoap scripting using the official 2.4.0 docs.*
 
 LLMs get Liquidsoap wrong a lot. Mixing 1.x docs, outdated blog posts, and half-remembered API examples.
 
