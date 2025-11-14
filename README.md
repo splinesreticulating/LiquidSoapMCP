@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/splinesreticulating-liquidsoapmcp-badge.png)](https://mseep.ai/app/splinesreticulating-liquidsoapmcp)
+
 # LiquidSoap MCP Server
 
 A Model Context Protocol (MCP) server that provides comprehensive access to LiquidSoap 2.4.0 documentation, examples, and script assistance.
