@@ -11,7 +11,7 @@
 # LiquidSoap MCP Server  
 ### Version-accurate Liquidsoap scripting using the official 2.4.0 docs.*
 
-LLMs get Liquidsoap wrong a lot, —mixing 1.x docs, outdated blog posts, and half-remembered API examples.
+LLMs get Liquidsoap wrong a lot, mixing 1.x docs, outdated blog posts, and half-remembered API examples.
 
 **This MCP server fixes that.**
 
