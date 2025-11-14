@@ -8,7 +8,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <!-- END SEO TAGS -->
 
-# ⭐ LiquidSoap MCP Server  
+# LiquidSoap MCP Server  
 ### *AI-powered, version-accurate Liquidsoap scripting using the official 2.4.0 docs.*
 
 <!-- BADGES -->
@@ -34,7 +34,7 @@ No hallucinations. No version drift. No mystery errors.
 
 ---
 
-# 🚀 Why this exists
+# Why this exists
 
 Liquidsoap is incredibly powerful—but:
 
@@ -44,32 +44,32 @@ Liquidsoap is incredibly powerful—but:
 - Even the official docs are spread across sections, pages, and changelogs  
 
 **This MCP server gives your AI one job:**  
-📌 *Stick to Liquidsoap 2.4.0 exactly.*
+*Stick to Liquidsoap 2.4.0 exactly.*
 
 It exposes a clean, structured API around the official docs so your assistant becomes a reliable Liquidsoap expert.
 
 ---
 
-# ✨ Features
+# Features
 
-## 📚 Version-Pinned Documentation (2.4.0)
+## Version-Pinned Documentation (2.4.0)
 - Full language reference  
 - Core API functions & operators  
 - Protocols (Icecast, HLS, HTTP, SRT, etc.)  
 - Encoder/decoder options  
 - Runtime settings  
 
-## 🔍 Smart Search
+## Smart Search
 - Search functions/operators by name or keyword  
 - Search through examples, patterns, and cookbook items  
 - Search 2.4.0 changelog & migration notes
 
-## 🧪 Script Assistance
+## Script Assistance
 - Detect deprecated functions (e.g. `null()`, `insert_metadata`)  
 - Warn about 1.x syntax  
 - Highlight common design pitfalls  
 
-## 🧩 Example Library
+## Example Library
 Ready-to-use snippets:
 
 - Crossfading  
@@ -88,7 +88,7 @@ Ready-to-use snippets:
 
 ---
 
-# 📸 Demo (example)
+# Demo (example)
 
 *(Add GIF or screenshots here — I can help generate one.)*
 
@@ -104,7 +104,7 @@ Your AI responds using *only* the pinned 2.4.0 docs.
 
 ---
 
-# 🛠 Installation
+# Installation
 
 ## Prerequisites
 - Node.js ≥ 18  
@@ -127,7 +127,7 @@ npm run build
 
 ---
 
-# 💬 Usage
+# Usage
 
 ## Claude Desktop Example
 
@@ -163,9 +163,9 @@ npm run build
 
 ---
 
-# 🧠 Supported Tools
+# Supported Tools
 
-## 🔧 Core Tools
+## Core Tools
 - `get_version`
 - `list_sections`
 - `get_documentation(section)`
@@ -174,7 +174,7 @@ npm run build
 - `get_examples(topic)`
 - `validate_script_syntax(script)`
 
-## 📁 Documentation Sections
+## Documentation Sections
 - `language`
 - `reference`
 - `protocols`
@@ -186,7 +186,7 @@ npm run build
 
 ---
 
-# 🎯 Roadmap
+# Roadmap
 
 - [ ] Liquidsoap script graph visualization  
 - [ ] Integrate `liquidsoap --check` for full type validation  
@@ -197,7 +197,7 @@ npm run build
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 PRs welcome—especially:
 
@@ -209,7 +209,7 @@ PRs welcome—especially:
 
 ---
 
-# 📚 Resources
+# Resources
 
 - https://www.liquidsoap.info/doc-2.4.0/  
 - https://modelcontextprotocol.io/  
@@ -217,13 +217,13 @@ PRs welcome—especially:
 
 ---
 
-# ❤️ Acknowledgments
+# Acknowledgments
 
 Built for the Liquidsoap community — and for the DJs, webradio operators, self-hosters, and audio nerds who want Liquidsoap to be easier, safer, and more fun with AI assistance.
 
 ---
 
-## ⭐ Want to support the project?
+## Want to support the project?
 
 **Please star the repo!**  
 It helps others discover it and tells me this niche was worth carving out.
