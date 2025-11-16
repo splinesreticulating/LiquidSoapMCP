@@ -156,6 +156,24 @@ npm run build
 }
 ```
 
+## Docker:
+
+```json
+{
+  "mcpServers": {
+    "liquidsoap": {
+      "command": "docker",
+      "args": ["run", "-i", "--rm", "liquidsoap-mcp-server"]
+    }
+  }
+}
+```
+
+**Build the image:**
+```bash
+docker build -t liquidsoap-mcp-server .
+```
+
 ---
 
 # Supported Tools
